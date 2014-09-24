@@ -10,5 +10,6 @@ cgitb.enable()
 print "Content-Type: text/plain;charset=utf-8"
 print
 
-print "Hello Moon!\n\n"
+print "Hello Moon!\n"
+print "Hello Sun!\n\n"
 print "Rendered on:", platform.uname()[1]
