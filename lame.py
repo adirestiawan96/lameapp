@@ -12,4 +12,5 @@ print
 
 print "Hello Moon!\n"
 print "Hello Sun!\n\n"
+echo "Hello World!\n"
 print "Rendered on:", platform.uname()[1]
