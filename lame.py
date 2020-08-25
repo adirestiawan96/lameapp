@@ -9,6 +9,7 @@ cgitb.enable()
 
 print("Content-Type: text/plain;charset=utf-8")
 print()
+print()
 
 print("Hello Moon!\n")
 print("Hello Sun!\n\n")
